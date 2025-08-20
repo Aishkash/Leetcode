@@ -75,4 +75,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Aishkash/Leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1541-top-travellers](https://github.com/Aishkash/Leetcode/tree/master/1541-top-travellers) |
 | [1664-find-users-with-valid-e-mails](https://github.com/Aishkash/Leetcode/tree/master/1664-find-users-with-valid-e-mails) |
+| [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Aishkash/Leetcode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 <!---LeetCode Topics End-->
