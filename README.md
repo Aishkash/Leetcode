@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1664-find-users-with-valid-e-mails](https://github.com/Aishkash/Leetcode/tree/master/1664-find-users-with-valid-e-mails) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Aishkash/Leetcode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1734-bank-account-summary-ii](https://github.com/Aishkash/Leetcode/tree/master/1734-bank-account-summary-ii) |
+| [1773-percentage-of-users-attended-a-contest](https://github.com/Aishkash/Leetcode/tree/master/1773-percentage-of-users-attended-a-contest) |
 ## Two Pointers
 |  |
 | ------- |
