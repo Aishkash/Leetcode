@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Aishkash/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0189-rotate-array](https://github.com/Aishkash/Leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aishkash/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0658-find-k-closest-elements](https://github.com/Aishkash/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/Aishkash/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Aishkash/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Divide and Conquer
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aishkash/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0658-find-k-closest-elements](https://github.com/Aishkash/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/Aishkash/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Aishkash/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/Aishkash/Leetcode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
@@ -27,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aishkash/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0658-find-k-closest-elements](https://github.com/Aishkash/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Aishkash/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/Aishkash/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Aishkash/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Aishkash/Leetcode/tree/master/0189-rotate-array) |
+| [0658-find-k-closest-elements](https://github.com/Aishkash/Leetcode/tree/master/0658-find-k-closest-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -125,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/Aishkash/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Aishkash/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
@@ -138,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/Aishkash/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/Aishkash/Leetcode/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
