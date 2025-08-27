@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Aishkash/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Aishkash/Leetcode/tree/master/0075-sort-colors) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Aishkash/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aishkash/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0189-rotate-array](https://github.com/Aishkash/Leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aishkash/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Aishkash/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0658-find-k-closest-elements](https://github.com/Aishkash/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Aishkash/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Tree
