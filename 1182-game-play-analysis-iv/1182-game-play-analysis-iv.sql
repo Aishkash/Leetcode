@@ -1,20 +1,10 @@
-WITH first_login AS (
-    SELECT player_id, MIN(event_date) AS first_login_date
-    FROM Activity
-    GROUP BY player_id
-),
-next_day_return AS (
-    SELECT DISTINCT f.player_id
-    FROM first_login f
-    JOIN Activity a
-      ON f.player_id = a.player_id
-     AND a.event_date = DATE_ADD(f.first_login_date, INTERVAL 1 DAY)
-)
-SELECT 
-    ROUND(
-        COUNT(DISTINCT n.player_id) / COUNT(DISTINCT f.player_id),
-        2
-    ) AS fraction
-FROM first_login f
-LEFT JOIN next_day_return n
-  ON f.player_id = n.player_id;
+select round((count(c.player_id))/(count(distinct d.player_id)),2) as fraction
+from (
+         select player_id,
+                min(event_date) as d_date
+         from activity   
+         group by player_id
+     ) as d
+left join activity c
+       on d.player_id = c.player_id
+      and datediff(c.event_date, d.d_date) = 1;
