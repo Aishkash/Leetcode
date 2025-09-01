@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0585-investments-in-2016](https://github.com/Aishkash/Leetcode/tree/master/0585-investments-in-2016) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Aishkash/Leetcode/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0608-tree-node](https://github.com/Aishkash/Leetcode/tree/master/0608-tree-node) |
+| [0626-exchange-seats](https://github.com/Aishkash/Leetcode/tree/master/0626-exchange-seats) |
 | [0627-swap-salary](https://github.com/Aishkash/Leetcode/tree/master/0627-swap-salary) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Aishkash/Leetcode/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1153-product-sales-analysis-i](https://github.com/Aishkash/Leetcode/tree/master/1153-product-sales-analysis-i) |
