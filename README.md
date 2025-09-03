@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1182-game-play-analysis-iv](https://github.com/Aishkash/Leetcode/tree/master/1182-game-play-analysis-iv) |
 | [1258-article-views-i](https://github.com/Aishkash/Leetcode/tree/master/1258-article-views-i) |
 | [1268-market-analysis-i](https://github.com/Aishkash/Leetcode/tree/master/1268-market-analysis-i) |
+| [1278-product-price-at-a-given-date](https://github.com/Aishkash/Leetcode/tree/master/1278-product-price-at-a-given-date) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/Aishkash/Leetcode/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Aishkash/Leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1541-top-travellers](https://github.com/Aishkash/Leetcode/tree/master/1541-top-travellers) |
