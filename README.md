@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1278-product-price-at-a-given-date](https://github.com/Aishkash/Leetcode/tree/master/1278-product-price-at-a-given-date) |
 | [1317-monthly-transactions-i](https://github.com/Aishkash/Leetcode/tree/master/1317-monthly-transactions-i) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/Aishkash/Leetcode/tree/master/1327-last-person-to-fit-in-the-bus) |
+| [1452-restaurant-growth](https://github.com/Aishkash/Leetcode/tree/master/1452-restaurant-growth) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/Aishkash/Leetcode/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Aishkash/Leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1541-top-travellers](https://github.com/Aishkash/Leetcode/tree/master/1541-top-travellers) |
