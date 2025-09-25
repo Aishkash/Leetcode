@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Aishkash/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/Aishkash/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0822-unique-morse-code-words](https://github.com/Aishkash/Leetcode/tree/master/0822-unique-morse-code-words) |
+| [0824-number-of-lines-to-write-string](https://github.com/Aishkash/Leetcode/tree/master/0824-number-of-lines-to-write-string) |
 | [1014-k-closest-points-to-origin](https://github.com/Aishkash/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Aishkash/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Aishkash/Leetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Aishkash/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0504-base-7](https://github.com/Aishkash/Leetcode/tree/master/0504-base-7) |
 | [0822-unique-morse-code-words](https://github.com/Aishkash/Leetcode/tree/master/0822-unique-morse-code-words) |
+| [0824-number-of-lines-to-write-string](https://github.com/Aishkash/Leetcode/tree/master/0824-number-of-lines-to-write-string) |
 ## Counting
 |  |
 | ------- |
