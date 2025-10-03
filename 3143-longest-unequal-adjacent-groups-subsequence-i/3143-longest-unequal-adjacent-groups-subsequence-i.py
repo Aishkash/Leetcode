@@ -1,10 +1,16 @@
 class Solution(object):
     def getLongestSubsequence(self, words, groups):
-        arr = [0]  # start with first index
-        for i in range(1, len(groups)):
-            if groups[i] != groups[arr[-1]]:
-                arr.append(i)
-        j=[]
-        for i in arr:
-            j.append(words[i])
-        return j    
+        if not words:
+            return []
+
+        # Start with the first element
+        subseq = [words[0]]
+        last_group = groups[0]
+
+        # Go through the rest of the elements
+        for i in range(1, len(words)):
+            if groups[i] != last_group:
+                subseq.append(words[i])
+                last_group = groups[i]  # update last_group
+
+        return subseq
