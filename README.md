@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Aishkash/Leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aishkash/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/Aishkash/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0747-min-cost-climbing-stairs](https://github.com/Aishkash/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0822-unique-morse-code-words](https://github.com/Aishkash/Leetcode/tree/master/0822-unique-morse-code-words) |
 | [0824-number-of-lines-to-write-string](https://github.com/Aishkash/Leetcode/tree/master/0824-number-of-lines-to-write-string) |
 | [1014-k-closest-points-to-origin](https://github.com/Aishkash/Leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Aishkash/Leetcode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Aishkash/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0747-min-cost-climbing-stairs](https://github.com/Aishkash/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/Aishkash/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1764-maximum-repeating-substring](https://github.com/Aishkash/Leetcode/tree/master/1764-maximum-repeating-substring) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Aishkash/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
