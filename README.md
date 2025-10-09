@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Aishkash/Leetcode/tree/master/0036-valid-sudoku) |
+| [0045-jump-game-ii](https://github.com/Aishkash/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Aishkash/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Aishkash/Leetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Aishkash/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Aishkash/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Aishkash/Leetcode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Aishkash/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0747-min-cost-climbing-stairs](https://github.com/Aishkash/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Aishkash/Leetcode/tree/master/0045-jump-game-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Aishkash/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Memoization
 |  |
