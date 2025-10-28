@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Aishkash/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Aishkash/Leetcode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Aishkash/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0338-counting-bits](https://github.com/Aishkash/Leetcode/tree/master/0338-counting-bits) |
 | [0747-min-cost-climbing-stairs](https://github.com/Aishkash/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/Aishkash/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1764-maximum-repeating-substring](https://github.com/Aishkash/Leetcode/tree/master/1764-maximum-repeating-substring) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Aishkash/Leetcode/tree/master/0190-reverse-bits) |
+| [0338-counting-bits](https://github.com/Aishkash/Leetcode/tree/master/0338-counting-bits) |
 ## Greedy
 |  |
 | ------- |
