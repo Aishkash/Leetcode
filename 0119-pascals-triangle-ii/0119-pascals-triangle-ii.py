@@ -1,8 +1,10 @@
 class Solution(object):
     def getRow(self, rowIndex):
-        row = [1]
-        for _ in range(rowIndex):
-            # create next row using zip to sum pairs
-            row = [1] + [a + b for a, b in zip(row, row[1:])] + [1]
-        return row
+        triangle=[]
+        for i in range (rowIndex+1):
+            row = [1] * (i + 1) 
+            for j in range(1, i):  
+                row[j] = triangle[i - 1][j - 1] + triangle[i - 1][j]
+            triangle.append(row)
         
+        return triangle[rowIndex]
