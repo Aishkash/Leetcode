@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/Aishkash/Leetcode/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/Aishkash/Leetcode/tree/master/0091-decode-ways) |
 | [0171-excel-sheet-column-number](https://github.com/Aishkash/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/Aishkash/Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Aishkash/Leetcode/tree/master/0383-ransom-note) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Aishkash/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Aishkash/Leetcode/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/Aishkash/Leetcode/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/Aishkash/Leetcode/tree/master/0091-decode-ways) |
 | [0119-pascals-triangle-ii](https://github.com/Aishkash/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/Aishkash/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/Aishkash/Leetcode/tree/master/0338-counting-bits) |
