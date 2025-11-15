@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Aishkash/Leetcode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Aishkash/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0504-base-7](https://github.com/Aishkash/Leetcode/tree/master/0504-base-7) |
+| [0812-rotate-string](https://github.com/Aishkash/Leetcode/tree/master/0812-rotate-string) |
 | [0822-unique-morse-code-words](https://github.com/Aishkash/Leetcode/tree/master/0822-unique-morse-code-words) |
 | [0824-number-of-lines-to-write-string](https://github.com/Aishkash/Leetcode/tree/master/0824-number-of-lines-to-write-string) |
 | [1764-maximum-repeating-substring](https://github.com/Aishkash/Leetcode/tree/master/1764-maximum-repeating-substring) |
@@ -246,5 +247,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0812-rotate-string](https://github.com/Aishkash/Leetcode/tree/master/0812-rotate-string) |
 | [1764-maximum-repeating-substring](https://github.com/Aishkash/Leetcode/tree/master/1764-maximum-repeating-substring) |
 <!---LeetCode Topics End-->
