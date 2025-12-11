@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Aishkash/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/Aishkash/Leetcode/tree/master/0036-valid-sudoku) |
 | [0242-valid-anagram](https://github.com/Aishkash/Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Aishkash/Leetcode/tree/master/0383-ransom-note) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Aishkash/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0072-edit-distance](https://github.com/Aishkash/Leetcode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Aishkash/Leetcode/tree/master/0091-decode-ways) |
 | [0171-excel-sheet-column-number](https://github.com/Aishkash/Leetcode/tree/master/0171-excel-sheet-column-number) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Aishkash/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0658-find-k-closest-elements](https://github.com/Aishkash/Leetcode/tree/master/0658-find-k-closest-elements) |
 ## Bucket Sort
 |  |
