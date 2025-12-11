@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aishkash/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0006-zigzag-conversion](https://github.com/Aishkash/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0072-edit-distance](https://github.com/Aishkash/Leetcode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Aishkash/Leetcode/tree/master/0091-decode-ways) |
 | [0171-excel-sheet-column-number](https://github.com/Aishkash/Leetcode/tree/master/0171-excel-sheet-column-number) |
