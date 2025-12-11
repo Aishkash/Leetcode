@@ -4,16 +4,17 @@ class Solution {
             return s;
         }
 
-        StringBuilder[] rows = new StringBuilder[numRows];
+        // create an array of Strings instead of StringBuilder
+        String[] rows = new String[numRows];
         for (int i = 0; i < numRows; i++) {
-            rows[i] = new StringBuilder();
+            rows[i] = "";
         }
 
         int row = 0;
         boolean goingDown = true;
 
         for (char ch : s.toCharArray()) {
-            rows[row].append(ch);
+            rows[row] = rows[row] + ch; // string concatenation
 
             if (row == numRows - 1) {
                 goingDown = false;
@@ -24,11 +25,12 @@ class Solution {
             row += goingDown ? 1 : -1;
         }
 
-        StringBuilder result = new StringBuilder();
-        for (StringBuilder sb : rows) {
-            result.append(sb);
+        // join strings
+        String result = "";
+        for (String r : rows) {
+            result = result + r;
         }
 
-        return result.toString();
+        return result;
     }
 }
