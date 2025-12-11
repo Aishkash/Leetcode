@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Aishkash/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Aishkash/Leetcode/tree/master/0283-move-zeroes) |
 | [0658-find-k-closest-elements](https://github.com/Aishkash/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Aishkash/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -256,4 +257,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0812-rotate-string](https://github.com/Aishkash/Leetcode/tree/master/0812-rotate-string) |
 | [1764-maximum-repeating-substring](https://github.com/Aishkash/Leetcode/tree/master/1764-maximum-repeating-substring) |
+## Linked List
+|  |
+| ------- |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Aishkash/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
