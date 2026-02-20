@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/Aishkash/Leetcode/tree/master/0812-rotate-string) |
 | [0822-unique-morse-code-words](https://github.com/Aishkash/Leetcode/tree/master/0822-unique-morse-code-words) |
 | [0824-number-of-lines-to-write-string](https://github.com/Aishkash/Leetcode/tree/master/0824-number-of-lines-to-write-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aishkash/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1764-maximum-repeating-substring](https://github.com/Aishkash/Leetcode/tree/master/1764-maximum-repeating-substring) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Aishkash/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Counting
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aishkash/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aishkash/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
