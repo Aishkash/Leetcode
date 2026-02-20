@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Aishkash/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Aishkash/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Aishkash/Leetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
+| [2965-find-missing-and-repeated-values](https://github.com/Aishkash/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Aishkash/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Divide and Conquer
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Aishkash/Leetcode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Aishkash/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0822-unique-morse-code-words](https://github.com/Aishkash/Leetcode/tree/master/0822-unique-morse-code-words) |
+| [2965-find-missing-and-repeated-values](https://github.com/Aishkash/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/Aishkash/Leetcode/tree/master/0504-base-7) |
 | [1014-k-closest-points-to-origin](https://github.com/Aishkash/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1236-n-th-tribonacci-number](https://github.com/Aishkash/Leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [2965-find-missing-and-repeated-values](https://github.com/Aishkash/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Aishkash/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Stack
 |  |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Aishkash/Leetcode/tree/master/0036-valid-sudoku) |
+| [2965-find-missing-and-repeated-values](https://github.com/Aishkash/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
 | ------- |
