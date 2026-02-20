@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Aishkash/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aishkash/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0119-pascals-triangle-ii](https://github.com/Aishkash/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Aishkash/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Aishkash/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Aishkash/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Aishkash/Leetcode/tree/master/0189-rotate-array) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Aishkash/Leetcode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Aishkash/Leetcode/tree/master/0091-decode-ways) |
 | [0119-pascals-triangle-ii](https://github.com/Aishkash/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Aishkash/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Aishkash/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/Aishkash/Leetcode/tree/master/0338-counting-bits) |
 | [0747-min-cost-climbing-stairs](https://github.com/Aishkash/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
