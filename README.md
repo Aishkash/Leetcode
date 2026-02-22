@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Aishkash/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Aishkash/Leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aishkash/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Aishkash/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Aishkash/Leetcode/tree/master/0283-move-zeroes) |
 | [0658-find-k-closest-elements](https://github.com/Aishkash/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0747-min-cost-climbing-stairs](https://github.com/Aishkash/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Aishkash/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Aishkash/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aishkash/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Aishkash/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Aishkash/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Aishkash/Leetcode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Aishkash/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aishkash/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/Aishkash/Leetcode/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/Aishkash/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Aishkash/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Aishkash/Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Aishkash/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aishkash/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
