@@ -1,9 +1,9 @@
 class Solution(object):
     def containsDuplicate(self, nums):
-        a={}
+        k=set()
         for num in nums:
-            if num not in a:
-                a[num]=1
+            if num not in k:
+                k.add(num)
             else:
                 return True
         return False
