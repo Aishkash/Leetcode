@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Aishkash/Leetcode/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/Aishkash/Leetcode/tree/master/0050-powx-n) |
 | [0171-excel-sheet-column-number](https://github.com/Aishkash/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Aishkash/Leetcode/tree/master/0189-rotate-array) |
 | [0504-base-7](https://github.com/Aishkash/Leetcode/tree/master/0504-base-7) |
@@ -285,4 +286,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Aishkash/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/Aishkash/Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
