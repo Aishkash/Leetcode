@@ -1,14 +1,14 @@
 class Solution(object):
     def majorityElement(self, nums):
-        a={}
-        sz=len(nums)
+        sz=len(nums)//2
+        k={}
         for i in nums:
-            if i not in a:
-                a[i]=1
+            if i not in k:
+                k[i]=1
             else:
-                a[i]+=1
-        mid=sz//2
+                k[i]+=1
+
         for i in nums:
-            if a[i]>mid:
+            if k[i]>sz:
                 return i
         
