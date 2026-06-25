@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Aishkash/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Aishkash/Leetcode/tree/master/0283-move-zeroes) |
 | [0658-find-k-closest-elements](https://github.com/Aishkash/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0724-find-pivot-index](https://github.com/Aishkash/Leetcode/tree/master/0724-find-pivot-index) |
 | [0747-min-cost-climbing-stairs](https://github.com/Aishkash/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0822-unique-morse-code-words](https://github.com/Aishkash/Leetcode/tree/master/0822-unique-morse-code-words) |
 | [0824-number-of-lines-to-write-string](https://github.com/Aishkash/Leetcode/tree/master/0824-number-of-lines-to-write-string) |
@@ -299,4 +300,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Aishkash/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/Aishkash/Leetcode/tree/master/0050-powx-n) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Aishkash/Leetcode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
