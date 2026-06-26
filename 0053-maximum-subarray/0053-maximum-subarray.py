@@ -1,10 +1,12 @@
 class Solution(object):
     def maxSubArray(self, nums):
-        a=0
-        maxi=float('-inf')
+        a=float('-inf')
+        maxi=0
         for i in nums:
-            a+=i
-            maxi=max(a,maxi)
-            if a<0:
-                a=0
-        return maxi
+            maxi+=i
+            if maxi>a:
+                a=maxi
+            if maxi<0:
+                maxi=0
+        return a
+        
