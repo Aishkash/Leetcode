@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Aishkash/Leetcode/tree/master/0050-powx-n) |
 | [0171-excel-sheet-column-number](https://github.com/Aishkash/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Aishkash/Leetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Aishkash/Leetcode/tree/master/0231-power-of-two) |
 | [0504-base-7](https://github.com/Aishkash/Leetcode/tree/master/0504-base-7) |
 | [1014-k-closest-points-to-origin](https://github.com/Aishkash/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1236-n-th-tribonacci-number](https://github.com/Aishkash/Leetcode/tree/master/1236-n-th-tribonacci-number) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Aishkash/Leetcode/tree/master/0190-reverse-bits) |
+| [0231-power-of-two](https://github.com/Aishkash/Leetcode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/Aishkash/Leetcode/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/Aishkash/Leetcode/tree/master/0389-find-the-difference) |
 ## Greedy
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Aishkash/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/Aishkash/Leetcode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Aishkash/Leetcode/tree/master/0231-power-of-two) |
 ## Prefix Sum
 |  |
 | ------- |
