@@ -1,41 +1,39 @@
 class Solution(object):
     def backspaceCompare(self, s, t):
-        sz=len(s)
-        i=sz-1
-        k=0
-        new=''
-        while i>-1:
-            if s[i]=='#':
-                k+=1
-                i-=1
-            else:
-                if k>0:
-                    while i >= 0 and k > 0:
-                        if s[i] == '#':
-                            k += 1
-                        else:
-                            k -= 1
-                        i -= 1
+        i = len(s) - 1
+        j = len(t) - 1
+        skipS = 0
+        skipT = 0
+
+        while i >= 0 or j >= 0:
+
+            while i >= 0:
+                if s[i] == '#':
+                    skipS += 1
+                    i -= 1
+                elif skipS > 0:
+                    skipS -= 1
+                    i -= 1
                 else:
-                    new+= s[i]
-                    i-=1        
-        szz=len(t)
-        i=szz-1
-        k=0
-        new2=''
-        while i>-1:
-            if t[i]=='#':
-                k+=1
-                i-=1
-            else:
-                if k>0:
-                    while i >= 0 and k > 0:
-                        if t[i] == '#':
-                            k += 1
-                        else:
-                            k -= 1
-                        i -= 1
+                    break
+
+            while j >= 0:
+                if t[j] == '#':
+                    skipT += 1
+                    j -= 1
+                elif skipT > 0:
+                    skipT -= 1
+                    j -= 1
                 else:
-                    new2+= t[i]
-                    i-=1
-        return new==new2
+                    break
+
+            if i >= 0 and j >= 0:
+                if s[i] != t[j]:
+                    return False
+            elif i >= 0 or j >= 0:
+                return False
+
+            i -= 1
+            j -= 1
+
+        return True
