@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/Aishkash/Leetcode/tree/master/0812-rotate-string) |
 | [0822-unique-morse-code-words](https://github.com/Aishkash/Leetcode/tree/master/0822-unique-morse-code-words) |
 | [0824-number-of-lines-to-write-string](https://github.com/Aishkash/Leetcode/tree/master/0824-number-of-lines-to-write-string) |
+| [0844-backspace-string-compare](https://github.com/Aishkash/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aishkash/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1764-maximum-repeating-substring](https://github.com/Aishkash/Leetcode/tree/master/1764-maximum-repeating-substring) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Aishkash/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aishkash/Leetcode/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aishkash/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0844-backspace-string-compare](https://github.com/Aishkash/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aishkash/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Aishkash/Leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Aishkash/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0658-find-k-closest-elements](https://github.com/Aishkash/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0844-backspace-string-compare](https://github.com/Aishkash/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aishkash/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Aishkash/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Dynamic Programming
@@ -341,4 +344,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Aishkash/Leetcode/tree/master/0075-sort-colors) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/Aishkash/Leetcode/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
