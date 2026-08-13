@@ -1,21 +1,19 @@
 class Solution(object):
     def maxProduct(self, nums):
-        sz=len(nums)
-        if not nums:
-            return 0
-        
-        pre=1
-        suf=1
-        max_prod=float("-inf")
-        
-        for i in range(sz):
-            pre *= nums[i]
-            suf *= nums[sz-1-i]
-            max_prod = max(max_prod, pre, suf)
-            
-            if nums[i] == 0:
-                pre = 1
-            if nums[sz-1-i] == 0:
-                suf = 1
+        ans=float('-inf')
+        summ=1
+        neg=1
+        for i in nums:
+            if i == 0:
+                ans = max(ans, 0)
+                summ = 1
+                neg = 1
+                continue
 
-        return max_prod
+            if i < 0:
+                summ, neg = neg, summ
+            summ = max(i, summ * i)
+            neg = min(i, neg * i)
+            ans = max(ans, summ)
+
+        return ans
