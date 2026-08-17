@@ -1,9 +1,17 @@
-from collections import Counter
 class Solution(object):
     def firstUniqChar(self, s):
-        freq = Counter(s) 
-    
-        for i, ch in enumerate(s):  
-            if freq[ch] == 1:      
-                return i
+        sz = len(s)
+        a = {}
+
+        for i in s:
+            if i not in a:
+                a[i] = 0
+            a[i] += 1
+
+        k = 0
+        while k < sz:
+            if a[s[k]] == 1:
+                return k
+            k += 1
+
         return -1
