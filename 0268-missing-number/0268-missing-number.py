@@ -1,8 +1,17 @@
 class Solution(object):
     def missingNumber(self, nums):
+        i = 0
         sz=len(nums)
-        k=0
-        a=sum(nums)
-        for i in range(1,sz+1):
-            k+=i
-        return k-a
+        while i < sz:
+            correct = nums[i]
+
+            if nums[i]<sz and nums[i] != nums[correct]:
+                nums[i], nums[correct] = nums[correct], nums[i]
+            else:
+                i += 1
+
+        for i in range(len(nums)):
+            if nums[i] != i:
+                return i
+
+        return len(nums)
