@@ -1,17 +1,16 @@
 class Solution(object):
     def isValid(self, s):
-        sz=len(s)
-        a=[]
+        stack=[]
         for i in s:
-            l=len(a)
-            if l>0 and a[-1]=='(' and i==')':
-                a.pop()
-            elif l>0 and a[-1]=='{' and i=='}':
-                a.pop()
-            elif l>0 and a[-1]=='[' and i==']':
-                a.pop()
+            l=len(stack)
+            if l>0 and stack[-1]=='{' and i=='}':
+                stack.pop()
+            elif l>0 and stack[-1]=='[' and i==']':
+                stack.pop()
+            elif l>0 and stack[-1]=='(' and i==')':
+                stack.pop()
             else:
-                a.append(i)       
-
-        return len(a)==0
-       
+                stack.append(i)
+        l=len(stack)
+        return l==0
+        
