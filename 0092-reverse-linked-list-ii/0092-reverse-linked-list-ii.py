@@ -1,16 +1,22 @@
-class Solution(object):
+class Solution:
     def reverseBetween(self, head, left, right):
-        dummy = ListNode(0,head)
-        prev = dummy
+        dummy = ListNode(0, head)
 
-        for _ in range(left - 1):
-            prev = prev.next
-        curr = prev.next
+        leftPrev, cur = dummy, head
 
-        for _ in range(right - left):
-            temp = curr.next
-            curr.next = temp.next
-            temp.next = prev.next
-            prev.next = temp
+        for i in range(left - 1):
+            leftPrev, cur = cur, cur.next
+
+        # 2. Reverse from left to right
+        prev = None
+
+        for i in range(right - left + 1):
+            tmpNext = cur.next
+            cur.next = prev
+            prev, cur = cur, tmpNext
+
+        # 3. Reconnect the reversed portion
+        leftPrev.next.next = cur
+        leftPrev.next = prev
 
         return dummy.next
