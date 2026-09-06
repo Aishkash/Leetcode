@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0822-unique-morse-code-words](https://github.com/Aishkash/Leetcode/tree/master/0822-unique-morse-code-words) |
 | [0824-number-of-lines-to-write-string](https://github.com/Aishkash/Leetcode/tree/master/0824-number-of-lines-to-write-string) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aishkash/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/Aishkash/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aishkash/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Aishkash/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Aishkash/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Aishkash/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Aishkash/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aishkash/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/Aishkash/Leetcode/tree/master/0875-koko-eating-bananas) |
 ## Binary Tree
 |  |
 | ------- |
