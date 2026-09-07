@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Aishkash/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aishkash/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Aishkash/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Aishkash/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Aishkash/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Aishkash/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Aishkash/Leetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/Aishkash/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aishkash/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Aishkash/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Aishkash/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Binary Tree
 |  |
 | ------- |
