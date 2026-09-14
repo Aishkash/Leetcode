@@ -1,21 +1,26 @@
 class Solution(object):
     def maximumCandies(self, candies, k):
-        if sum(candies) < k:
+        total = sum(candies)
+        if total < k:
             return 0
 
-        left, right = 1, max(candies)
-        ans = 0
+        l, r = 1, total // k
+        res = 0
 
-        while left <= right:
-            mid = (left + right) // 2
+        while l <= r:
+            m = (l + r) // 2
+            count = 0
 
-            children_count = sum(pile // mid for pile in candies)
+            for c in candies:
+                if c >= m:
+                    count += c // m
+                if count >= k:
+                    break  
 
-            if children_count >= k:
-                ans = mid
-                left = mid + 1
+            if count >= k:
+                res = m
+                l = m + 1  
             else:
-                right = mid - 1
+                r = m - 1 
 
-        return ans
-        
+        return res
