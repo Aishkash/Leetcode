@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Aishkash/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Aishkash/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Aishkash/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/Aishkash/Leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Aishkash/Leetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/Aishkash/Leetcode/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/Aishkash/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aishkash/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Aishkash/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Aishkash/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/Aishkash/Leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Binary Tree
 |  |
 | ------- |
