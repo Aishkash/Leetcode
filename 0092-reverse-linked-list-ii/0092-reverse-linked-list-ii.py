@@ -1,22 +1,25 @@
-class Solution:
+# Definition for singly-linked list.
+# class ListNode(object):
+#     def __init__(self, val=0, next=None):
+#         self.val = val
+#         self.next = next
+class Solution(object):
     def reverseBetween(self, head, left, right):
-        dummy = ListNode(0, head)
+        a=right-left
+        dummy = ListNode(0)
+        dummy.next = head
+        prev = dummy
 
-        leftPrev, cur = dummy, head
+        for _ in range(1,left):
+            prev = prev.next
 
-        for i in range(left - 1):
-            leftPrev, cur = cur, cur.next
+        # Start reversing from curr
+        curr = prev.next
+        for _ in range(a):
+            temp=curr.next
+            curr.next=temp.next
+            temp.next=prev.next
+            prev.next=temp
+        return dummy.next    
 
-        # 2. Reverse from left to right
-        prev = None
-
-        for i in range(right - left + 1):
-            tmpNext = cur.next
-            cur.next = prev
-            prev, cur = cur, tmpNext
-
-        # 3. Reconnect the reversed portion
-        leftPrev.next.next = cur
-        leftPrev.next = prev
-
-        return dummy.next
+      
